@@ -7,5 +7,5 @@ steps:
 3. run 'train_triple_2bert.sh' to train and test model.
 
 
-We have run our expriements on 8 V100 GPU cards with batch size of 48.
+We have run our expriements on 8 V100 GPU cards with batch size of 48.  
 The 'train_triple_2bert.sh' provided here uses 4 GPU cards with batch size of 24.
